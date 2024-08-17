@@ -9,9 +9,6 @@ btn.onclick = function (){
         <a onclick="onDelete()"><i class='fas fa-trash'></i></a>
         </span>
         ${inp.value}<p/>
-        
-
-        
         `
         inp.value = '';
     }
